@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["UnixDatagram","An I/O object representing a Unix datagram socket."],["UnixListener","A Unix socket which can accept connections from other unix sockets."],["UnixStream","A structure representing a connected unix socket."]]});
